@@ -13,7 +13,7 @@
 
 ### Professional skills
 
-Java, .Net, Js, SQL, Git, Jenkins
+Java, .Net, Js, SQL, Git, Jenkins, Microsoft azure
 
 ### Example code block
 ```

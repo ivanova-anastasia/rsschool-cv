@@ -29,3 +29,6 @@ Java, .Net, Js, SQL, Git, Jenkins
 
 ### Education
 Polatsk State University, faculty of information technologies
+
+### Languages
+English - pre-intermediate

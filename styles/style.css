@@ -1,0 +1,41 @@
+main {
+  width: 70%;
+  margin: auto;
+  background-image: url(/rsschool-cv/images/white-background.jpg);
+}
+
+img {
+  border-radius: 20%;
+}
+
+h2 {
+  color: white;
+  text-shadow: -2px -2px 0 #4d4644, 2px -2px 0 #4d4644, -2px 2px 0 #4d4644,
+    2px 2px 0 #4d4644, 4px 4px 0 white, 5px 5px 0 white, 6px 6px 0 white;
+  letter-spacing: 0.1em;
+}
+
+.name {
+  font-size: 250%;
+  text-align: center;
+  text-decoration: underline;
+}
+
+section {
+  padding-left: 3%;
+  padding-top: 3%;
+}
+
+.summary {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.padSection {
+    padding-left: 12%;
+}
+
+.contact {
+  text-align: right;
+  padding-bottom: 4%;
+}
